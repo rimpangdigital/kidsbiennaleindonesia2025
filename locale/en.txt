@@ -1,5 +1,13 @@
 #: locale=en
 
+## Action
+
+### PDF
+PopupPDFBehaviour_D3D47C88_F2A6_9485_41D0_075E9CD54FEB.url = files/Katalog%20Kids%20Biennale%20Indonesia%202025_en.pdf
+
+### URL
+LinkBehaviour_D6188727_F2A2_B58B_41DF_7767A2A9BA3D.source = https://kidsbiennaleindonesia.id/
+
 ## Media
 
 ### Title
@@ -139,9 +147,20 @@ panorama_ED289508_E7D7_1C36_41EC_A27F1243A9CB.label = IMG_20250705_130521_00_174
 panorama_ED28F4AD_E7D7_1C4E_41D2_2D1275CF8A49.label = IMG_20250705_130854_00_175
 panorama_ED2F73DD_E7D1_1BCE_41B5_221983C24213.label = IMG_20250705_131026_00_176
 
+## Skin
+
+### Button
+Button_EC6C6212_F2A2_8F84_41E0_B8BA2E72A322.label = FLOOR PLAN
+Button_E88160AF_F2AF_8C9B_41C9_C94041ED472C.label = HOME
+Button_D0C8E03B_F2A5_8BFB_41E2_326112EAF465.label = KATALOG
+Button_EC7063B3_F2A2_8C8B_41E4_98534821D571.label = PANORAMA LIST
+
+### Multiline Text
+HTMLText_EF821908_F2A7_7D85_41AD_D02CCAEF76C9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9100000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.91vh;font-family:'Inter';"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
+
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Kids Biennale Indonesia
+tour.name = Kids Biennale Indonesia 2025
