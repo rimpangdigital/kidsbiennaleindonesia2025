@@ -4,10 +4,13 @@
 
 ### PDF
 PopupPDFBehaviour_D3D47C88_F2A6_9485_41D0_075E9CD54FEB.url = files/Katalog%20Kids%20Biennale%20Indonesia%202025_en.pdf
+PopupPDFBehaviour_0B76B942_139D_FCC7_416B_2C2A58F4BABA.url = files/Katalog%20Kids%20Biennale%20Indonesia%202025_en.pdf
 
 ### URL
+PopupWebFrameBehaviour_0B795964_139D_FCC3_41A0_3242B66EA24D.url = https://drive.google.com/file/d/11LkyLTmdwaUZ52p_i13b_hBiO7djMB_V/preview
 PopupWebFrameBehaviour_2E52EC60_0E19_8402_4196_7615777185A0.url = https://drive.google.com/file/d/11LkyLTmdwaUZ52p_i13b_hBiO7djMB_V/preview
 LinkBehaviour_D6188727_F2A2_B58B_41DF_7767A2A9BA3D.source = https://kidsbiennaleindonesia.id/
+LinkBehaviour_0B4B2937_139D_FC4D_41A8_0B7B758D0749.source = https://kidsbiennaleindonesia.id/
 
 ## Media
 
@@ -619,52 +622,72 @@ video_103D37AE_0E2F_841E_41A8_8B9F540B2AF3.label = Satria Yudhistira_Nightmare A
 video_2FAC14EB_0E19_8407_4194_98981DE6066A.label = Zaid Mursyid Atsabit_Tumbuh Tanpa Takut
 
 ### Video
-videolevel_0E7DD87A_1394_9CC7_418D_F7D2E79F8DF2.url = media/video_103D37AE_0E2F_841E_41A8_8B9F540B2AF3_en.mp4
-videolevel_0E7DD87A_1394_9CC7_418D_F7D2E79F8DF2.posterURL = media/video_103D37AE_0E2F_841E_41A8_8B9F540B2AF3_poster_en.jpg
-videolevel_0E579EBC_1394_9443_41A4_7888FB8AC496.url = media/video_111A62FC_0E17_9C02_4196_CC960C37DE82_en.mp4
-videolevel_0E579EBC_1394_9443_41A4_7888FB8AC496.posterURL = media/video_111A62FC_0E17_9C02_4196_CC960C37DE82_poster_en.jpg
-videolevel_0E6C4C47_1394_94CD_4184_1BBEE71643D7.url = media/video_1139E6BF_0EEA_847E_4191_8DEE33F1EEE4_en.mp4
-videolevel_0E6C4C47_1394_94CD_4184_1BBEE71643D7.posterURL = media/video_1139E6BF_0EEA_847E_4191_8DEE33F1EEE4_poster_en.jpg
-videolevel_0E670B15_1394_9C4D_4163_767E74960163.url = media/video_11DA52A5_0EEE_9C0D_4187_714B4A07463F_en.mp4
-videolevel_0E670B15_1394_9C4D_4163_767E74960163.posterURL = media/video_11DA52A5_0EEE_9C0D_4187_714B4A07463F_poster_en.jpg
-videolevel_0E7255F0_1394_97C3_41B2_2D593AC73F1B.url = media/video_1434AC27_0E3B_840E_419E_ACFDF0924D53_en.mp4
-videolevel_0E7255F0_1394_97C3_41B2_2D593AC73F1B.posterURL = media/video_1434AC27_0E3B_840E_419E_ACFDF0924D53_poster_en.jpg
-videolevel_0E78C73F_1394_94BB_419B_A26EB5E8A104.url = media/video_17B353A5_0E3F_BC02_4196_6D64EF4CD4C2_en.mp4
-videolevel_0E78C73F_1394_94BB_419B_A26EB5E8A104.posterURL = media/video_17B353A5_0E3F_BC02_4196_6D64EF4CD4C2_poster_en.jpg
-videolevel_0E514D84_1394_9443_41B1_EC28FE954536.url = media/video_2E10DA57_0EE9_8C0E_41A7_497DC6A0E63B_en.mp4
-videolevel_0E514D84_1394_9443_41B1_EC28FE954536.posterURL = media/video_2E10DA57_0EE9_8C0E_41A7_497DC6A0E63B_poster_en.jpg
-videolevel_0E6229C9_1394_9FC4_4135_1E48A192FBEA.url = media/video_2E6365D5_0E2E_8402_41AC_8357FC89FF78_en.mp4
-videolevel_0E6229C9_1394_9FC4_4135_1E48A192FBEA.posterURL = media/video_2E6365D5_0E2E_8402_41AC_8357FC89FF78_poster_en.jpg
-videolevel_0E5C3008_1394_8C43_41A8_BF0C67A556C8.url = media/video_2EFB7347_0E19_9C0E_4187_DB091B7CAFB2_en.mp4
-videolevel_0E5C3008_1394_8C43_41A8_BF0C67A556C8.posterURL = media/video_2EFB7347_0E19_9C0E_4187_DB091B7CAFB2_poster_en.jpg
-videolevel_0E415145_1394_8CCD_416C_92CED40BA3EA.url = media/video_2FAC14EB_0E19_8407_4194_98981DE6066A_en.mp4
-videolevel_0E415145_1394_8CCD_416C_92CED40BA3EA.posterURL = media/video_2FAC14EB_0E19_8407_4194_98981DE6066A_poster_en.jpg
+videolevel_34CF2EF0_13B4_75C3_419A_AAA8AFC7A634.url = media/video_103D37AE_0E2F_841E_41A8_8B9F540B2AF3_en.mp4
+videolevel_34CF2EF0_13B4_75C3_419A_AAA8AFC7A634.posterURL = media/video_103D37AE_0E2F_841E_41A8_8B9F540B2AF3_poster_en.jpg
+videolevel_34CCE3DE_13B4_93FF_4180_57A2A2FE7540.url = media/video_111A62FC_0E17_9C02_4196_CC960C37DE82_en.mp4
+videolevel_34CCE3DE_13B4_93FF_4180_57A2A2FE7540.posterURL = media/video_111A62FC_0E17_9C02_4196_CC960C37DE82_poster_en.jpg
+videolevel_34CF4209_13B4_8C45_4191_1271759FD6E3.url = media/video_1139E6BF_0EEA_847E_4191_8DEE33F1EEE4_en.mp4
+videolevel_34CF4209_13B4_8C45_4191_1271759FD6E3.posterURL = media/video_1139E6BF_0EEA_847E_4191_8DEE33F1EEE4_poster_en.jpg
+videolevel_34CF40F5_13B4_8DCC_41A2_54ABC2428C69.url = media/video_11DA52A5_0EEE_9C0D_4187_714B4A07463F_en.mp4
+videolevel_34CF40F5_13B4_8DCC_41A2_54ABC2428C69.posterURL = media/video_11DA52A5_0EEE_9C0D_4187_714B4A07463F_poster_en.jpg
+videolevel_34CEBD1C_13B4_7443_41B2_35C16235165F.url = media/video_1434AC27_0E3B_840E_419E_ACFDF0924D53_en.mp4
+videolevel_34CEBD1C_13B4_7443_41B2_35C16235165F.posterURL = media/video_1434AC27_0E3B_840E_419E_ACFDF0924D53_poster_en.jpg
+videolevel_34CF6E04_13B4_7443_4166_F41721CB5079.url = media/video_17B353A5_0E3F_BC02_4196_6D64EF4CD4C2_en.mp4
+videolevel_34CF6E04_13B4_7443_4166_F41721CB5079.posterURL = media/video_17B353A5_0E3F_BC02_4196_6D64EF4CD4C2_poster_en.jpg
+videolevel_34CCA2F6_13B4_8DCC_419A_75E1226186A8.url = media/video_2E10DA57_0EE9_8C0E_41A7_497DC6A0E63B_en.mp4
+videolevel_34CCA2F6_13B4_8DCC_419A_75E1226186A8.posterURL = media/video_2E10DA57_0EE9_8C0E_41A7_497DC6A0E63B_poster_en.jpg
+videolevel_34CF0FF8_13B4_73C3_419F_BF6CEDD51214.url = media/video_2E6365D5_0E2E_8402_41AC_8357FC89FF78_en.mp4
+videolevel_34CF0FF8_13B4_73C3_419F_BF6CEDD51214.posterURL = media/video_2E6365D5_0E2E_8402_41AC_8357FC89FF78_poster_en.jpg
+videolevel_34CC24E7_13B4_95CC_41B2_81C4E9AD8B0E.url = media/video_2EFB7347_0E19_9C0E_4187_DB091B7CAFB2_en.mp4
+videolevel_34CC24E7_13B4_95CC_41B2_81C4E9AD8B0E.posterURL = media/video_2EFB7347_0E19_9C0E_4187_DB091B7CAFB2_poster_en.jpg
+videolevel_34C255F6_13B4_97CF_4194_897511AF9F40.url = media/video_2FAC14EB_0E19_8407_4194_98981DE6066A_en.mp4
+videolevel_34C255F6_13B4_97CF_4194_897511AF9F40.posterURL = media/video_2FAC14EB_0E19_8407_4194_98981DE6066A_poster_en.jpg
 
 ### Video Subtitles
 
 ## Skin
 
 ### Button
+Button_11D606A1_0EEE_8403_41A3_8B9FEC5864EE_mobile.label = Ellysia Alena— Nada Lagu Bisa Aku Bisa
 Button_11D606A1_0EEE_8403_41A3_8B9FEC5864EE.label = Ellysia Alena— Nada Lagu Bisa Aku Bisa
+Button_EC6C6212_F2A2_8F84_41E0_B8BA2E72A322_mobile.label = FLOOR PLAN
 Button_EC6C6212_F2A2_8F84_41E0_B8BA2E72A322.label = FLOOR PLAN
+Button_1B04D1F9_0810_E50F_413B_B1D280C48658_mobile.label = GEDUNG B
 Button_1B04D1F9_0810_E50F_413B_B1D280C48658.label = GEDUNG B
 Button_1B332667_0810_EF02_4179_955255E01AD7.label = GEDUNG D
+Button_1B332667_0810_EF02_4179_955255E01AD7_mobile.label = GEDUNG D
+Button_E88160AF_F2AF_8C9B_41C9_C94041ED472C_mobile.label = HOME
 Button_E88160AF_F2AF_8C9B_41C9_C94041ED472C.label = HOME
+Button_18E37E82_0E69_8401_41A1_FD04F51C4E1C_mobile.label = Jagapati Lingkar Mulia & Rawallangi Arung Mulia— Dua Harimau
 Button_18E37E82_0E69_8401_41A1_FD04F51C4E1C.label = Jagapati Lingkar Mulia & Rawallangi Arung Mulia— Dua Harimau
+Button_17926C40_0E3E_8402_4188_A3962D626A54_mobile.label = Junichi Yahya Alhudzaifi_Aku Harus Bisa—Tumbuh Tanpa Rasa Takut
 Button_17926C40_0E3E_8402_4188_A3962D626A54.label = Junichi Yahya Alhudzaifi_Aku Harus Bisa—Tumbuh Tanpa Rasa Takut
+Button_D0C8E03B_F2A5_8BFB_41E2_326112EAF465_mobile.label = KATALOG
 Button_D0C8E03B_F2A5_8BFB_41E2_326112EAF465.label = KATALOG
+Button_11D056A3_0EEE_8406_41A6_2E5779C71D0D_mobile.label = Kolektif Al-Mukhlisihin Padang Lawas— Tumbuh Tanpa Takut
 Button_11D056A3_0EEE_8406_41A6_2E5779C71D0D.label = Kolektif Al-Mukhlisihin Padang Lawas— Tumbuh Tanpa Takut
+Button_11D266A6_0EEE_840E_419C_39FCA232F032_mobile.label = Kolektif Generasi Warna Warni Kreasi Anak Pulau— Anak Pulau Anak Mimpi
 Button_11D266A6_0EEE_840E_419C_39FCA232F032.label = Kolektif Generasi Warna Warni Kreasi Anak Pulau— Anak Pulau Anak Mimpi
 Button_17AF6AE3_0E3E_8C06_4197_8B1239DF65F9.label = Kolektif Sahabat SimpaSio IRIMA_Serwisu Berbuda— Tumbuh tanpa Takut
+Button_17AF6AE3_0E3E_8C06_4197_8B1239DF65F9_mobile.label = Kolektif Sahabat SimpaSio IRIMA_Serwisu Berbuda— Tumbuh tanpa Takut
+Button_142034C1_0E39_8402_4194_60F56D0F5C49_mobile.label = Kolektif Sinematografi SMK 3 Banjarmasin— Bertukar Cerita
 Button_142034C1_0E39_8402_4194_60F56D0F5C49.label = Kolektif Sinematografi SMK 3 Banjarmasin— Bertukar Cerita
+Button_11ACC6A9_0EEE_8402_41AB_A3D9D4EA2D27_mobile.label = Kolektif TK Tumbuh Yogyakarta— Pasti kita Juara
 Button_11ACC6A9_0EEE_8402_41AB_A3D9D4EA2D27.label = Kolektif TK Tumbuh Yogyakarta— Pasti kita Juara
+Button_EC7063B3_F2A2_8C8B_41E4_98534821D571_mobile.label = PANORAMA LIST
 Button_EC7063B3_F2A2_8C8B_41E4_98534821D571.label = PANORAMA LIST
+Button_11ACB6AB_0EEE_8406_4191_87DD907CA99F_mobile.label = Rayga Anandito Ramadhan Aiko, Dzakwaan Khairiy Sugiharto, Abisatya Ramadhan— Go Away Perundungan
 Button_11ACB6AB_0EEE_8406_4191_87DD907CA99F.label = Rayga Anandito Ramadhan Aiko, Dzakwaan Khairiy Sugiharto, Abisatya Ramadhan— Go Away Perundungan
+Button_14FE88ED_0E3A_8C02_41A6_8B0D5D97760B_mobile.label = Satria Yudhistira— Nightmare After School
 Button_14FE88ED_0E3A_8C02_41A6_8B0D5D97760B.label = Satria Yudhistira— Nightmare After School
 Button_2ED4F2E2_0E1A_FC01_41A5_FB6F0FDD6DEE.label = Zaid Mursyid Atsabit— Tumbuh Tanpa Takut
+Button_2ED4F2E2_0E1A_FC01_41A5_FB6F0FDD6DEE_mobile.label = Zaid Mursyid Atsabit— Tumbuh Tanpa Takut
 
 ### Multiline Text
-HTMLText_EF821908_F2A7_7D85_41AD_D02CCAEF76C9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9100000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.91vh;font-family:Inter;"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
+HTMLText_EF821908_F2A7_7D85_41AD_D02CCAEF76C9_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.3076923076923075vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.31vh;font-family:Inter;"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
+HTMLText_18E30E82_0E69_8401_41A0_26DE283F42E6_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.205128205128204vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.21vh;font-family:Inter;"><B>Video Artworks</B></SPAN></SPAN></DIV></div>
+HTMLText_11D7C69F_0EEE_843E_418E_EABE98CDE1DB_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.205128205128204vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.21vh;font-family:Inter;"><B>Video Artworks</B></SPAN></SPAN></DIV></div>
+HTMLText_EF821908_F2A7_7D85_41AD_D02CCAEF76C9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.910000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.91vh;font-family:Inter;"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
 HTMLText_18E30E82_0E69_8401_41A0_26DE283F42E6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.199999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:Inter;"><B>Video Artworks</B></SPAN></SPAN></DIV></div>
 HTMLText_11D7C69F_0EEE_843E_418E_EABE98CDE1DB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.199999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:Inter;"><B>Video Artworks</B></SPAN></SPAN></DIV></div>
 
