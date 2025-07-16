@@ -12,6 +12,10 @@ LinkBehaviour_D6188727_F2A2_B58B_41DF_7767A2A9BA3D.source = https://kidsbiennale
 ## Media
 
 ### Image
+imlevel_06FA894E_138C_9CDC_41A8_8E0B203C8CD3.url = media/popup_022F82F6_138D_8DCC_41A5_318DE4A02FCE_en_0_0.webp
+imlevel_06FA994E_138C_9CDC_418C_BA644594C46F.url = media/popup_022F82F6_138D_8DCC_41A5_318DE4A02FCE_en_0_1.webp
+imlevel_06FA694F_138C_9CDC_4178_85B2EE213935.url = media/popup_022F82F6_138D_8DCC_41A5_318DE4A02FCE_en_0_2.webp
+imlevel_06FA494F_138C_9CDC_4183_CD4827257058.url = media/popup_022F82F6_138D_8DCC_41A5_318DE4A02FCE_en_0_3.webp
 imlevel_1E4752A4_0400_A5C9_4160_C1E3DA26D2E3.url = media/popup_0B14E3EE_0400_AB59_4188_B8B564757181_en_0_0.webp
 imlevel_1E46A2A4_0400_A5C9_4183_1A3ECE7998E2.url = media/popup_0B14E3EE_0400_AB59_4188_B8B564757181_en_0_1.webp
 imlevel_1E4682A4_0400_A5C9_4183_65E96EBFAFA6.url = media/popup_0B14E3EE_0400_AB59_4188_B8B564757181_en_0_2.webp
@@ -615,26 +619,26 @@ video_103D37AE_0E2F_841E_41A8_8B9F540B2AF3.label = Satria Yudhistira_Nightmare A
 video_2FAC14EB_0E19_8407_4194_98981DE6066A.label = Zaid Mursyid Atsabit_Tumbuh Tanpa Takut
 
 ### Video
-videolevel_20E0CD9A_0E39_8406_419C_B05FA8D8E28F.url = media/video_103D37AE_0E2F_841E_41A8_8B9F540B2AF3_en.mp4
-videolevel_20E0CD9A_0E39_8406_419C_B05FA8D8E28F.posterURL = media/video_103D37AE_0E2F_841E_41A8_8B9F540B2AF3_poster_en.jpg
-videolevel_20E7736B_0E39_9C06_419A_373E0C1187FD.url = media/video_111A62FC_0E17_9C02_4196_CC960C37DE82_en.mp4
-videolevel_20E7736B_0E39_9C06_419A_373E0C1187FD.posterURL = media/video_111A62FC_0E17_9C02_4196_CC960C37DE82_poster_en.jpg
-videolevel_20E5D125_0E39_9C02_41A9_5C4B1B615993.url = media/video_1139E6BF_0EEA_847E_4191_8DEE33F1EEE4_en.mp4
-videolevel_20E5D125_0E39_9C02_41A9_5C4B1B615993.posterURL = media/video_1139E6BF_0EEA_847E_4191_8DEE33F1EEE4_poster_en.jpg
-videolevel_20E2FFFA_0E39_8406_419B_A7FFC3BC6715.url = media/video_11DA52A5_0EEE_9C0D_4187_714B4A07463F_en.mp4
-videolevel_20E2FFFA_0E39_8406_419B_A7FFC3BC6715.posterURL = media/video_11DA52A5_0EEE_9C0D_4187_714B4A07463F_poster_en.jpg
-videolevel_20FEFB34_0E39_8C03_419E_0AC45D459E82.url = media/video_1434AC27_0E3B_840E_419E_ACFDF0924D53_en.mp4
-videolevel_20FEFB34_0E39_8C03_419E_0AC45D459E82.posterURL = media/video_1434AC27_0E3B_840E_419E_ACFDF0924D53_poster_en.jpg
-videolevel_20E1EC62_0E39_8406_41A0_C09C4E0CC7EA.url = media/video_17B353A5_0E3F_BC02_4196_6D64EF4CD4C2_en.mp4
-videolevel_20E1EC62_0E39_8406_41A0_C09C4E0CC7EA.posterURL = media/video_17B353A5_0E3F_BC02_4196_6D64EF4CD4C2_poster_en.jpg
-videolevel_20E41243_0E39_9C06_41AC_7839F62890AA.url = media/video_2E10DA57_0EE9_8C0E_41A7_497DC6A0E63B_en.mp4
-videolevel_20E41243_0E39_9C06_41AC_7839F62890AA.posterURL = media/video_2E10DA57_0EE9_8C0E_41A7_497DC6A0E63B_poster_en.jpg
-videolevel_20E3CECC_0E39_8402_4146_5DF49DE4240C.url = media/video_2E6365D5_0E2E_8402_41AC_8357FC89FF78_en.mp4
-videolevel_20E3CECC_0E39_8402_4146_5DF49DE4240C.posterURL = media/video_2E6365D5_0E2E_8402_41AC_8357FC89FF78_poster_en.jpg
-videolevel_20E80493_0E39_8406_4199_9AC93B09B54C.url = media/video_2EFB7347_0E19_9C0E_4187_DB091B7CAFB2_en.mp4
-videolevel_20E80493_0E39_8406_4199_9AC93B09B54C.posterURL = media/video_2EFB7347_0E19_9C0E_4187_DB091B7CAFB2_poster_en.jpg
-videolevel_20EEA5CC_0E39_8401_4198_CE7615804484.url = media/video_2FAC14EB_0E19_8407_4194_98981DE6066A_en.mp4
-videolevel_20EEA5CC_0E39_8401_4198_CE7615804484.posterURL = media/video_2FAC14EB_0E19_8407_4194_98981DE6066A_poster_en.jpg
+videolevel_0E7DD87A_1394_9CC7_418D_F7D2E79F8DF2.url = media/video_103D37AE_0E2F_841E_41A8_8B9F540B2AF3_en.mp4
+videolevel_0E7DD87A_1394_9CC7_418D_F7D2E79F8DF2.posterURL = media/video_103D37AE_0E2F_841E_41A8_8B9F540B2AF3_poster_en.jpg
+videolevel_0E579EBC_1394_9443_41A4_7888FB8AC496.url = media/video_111A62FC_0E17_9C02_4196_CC960C37DE82_en.mp4
+videolevel_0E579EBC_1394_9443_41A4_7888FB8AC496.posterURL = media/video_111A62FC_0E17_9C02_4196_CC960C37DE82_poster_en.jpg
+videolevel_0E6C4C47_1394_94CD_4184_1BBEE71643D7.url = media/video_1139E6BF_0EEA_847E_4191_8DEE33F1EEE4_en.mp4
+videolevel_0E6C4C47_1394_94CD_4184_1BBEE71643D7.posterURL = media/video_1139E6BF_0EEA_847E_4191_8DEE33F1EEE4_poster_en.jpg
+videolevel_0E670B15_1394_9C4D_4163_767E74960163.url = media/video_11DA52A5_0EEE_9C0D_4187_714B4A07463F_en.mp4
+videolevel_0E670B15_1394_9C4D_4163_767E74960163.posterURL = media/video_11DA52A5_0EEE_9C0D_4187_714B4A07463F_poster_en.jpg
+videolevel_0E7255F0_1394_97C3_41B2_2D593AC73F1B.url = media/video_1434AC27_0E3B_840E_419E_ACFDF0924D53_en.mp4
+videolevel_0E7255F0_1394_97C3_41B2_2D593AC73F1B.posterURL = media/video_1434AC27_0E3B_840E_419E_ACFDF0924D53_poster_en.jpg
+videolevel_0E78C73F_1394_94BB_419B_A26EB5E8A104.url = media/video_17B353A5_0E3F_BC02_4196_6D64EF4CD4C2_en.mp4
+videolevel_0E78C73F_1394_94BB_419B_A26EB5E8A104.posterURL = media/video_17B353A5_0E3F_BC02_4196_6D64EF4CD4C2_poster_en.jpg
+videolevel_0E514D84_1394_9443_41B1_EC28FE954536.url = media/video_2E10DA57_0EE9_8C0E_41A7_497DC6A0E63B_en.mp4
+videolevel_0E514D84_1394_9443_41B1_EC28FE954536.posterURL = media/video_2E10DA57_0EE9_8C0E_41A7_497DC6A0E63B_poster_en.jpg
+videolevel_0E6229C9_1394_9FC4_4135_1E48A192FBEA.url = media/video_2E6365D5_0E2E_8402_41AC_8357FC89FF78_en.mp4
+videolevel_0E6229C9_1394_9FC4_4135_1E48A192FBEA.posterURL = media/video_2E6365D5_0E2E_8402_41AC_8357FC89FF78_poster_en.jpg
+videolevel_0E5C3008_1394_8C43_41A8_BF0C67A556C8.url = media/video_2EFB7347_0E19_9C0E_4187_DB091B7CAFB2_en.mp4
+videolevel_0E5C3008_1394_8C43_41A8_BF0C67A556C8.posterURL = media/video_2EFB7347_0E19_9C0E_4187_DB091B7CAFB2_poster_en.jpg
+videolevel_0E415145_1394_8CCD_416C_92CED40BA3EA.url = media/video_2FAC14EB_0E19_8407_4194_98981DE6066A_en.mp4
+videolevel_0E415145_1394_8CCD_416C_92CED40BA3EA.posterURL = media/video_2FAC14EB_0E19_8407_4194_98981DE6066A_poster_en.jpg
 
 ### Video Subtitles
 
@@ -661,8 +665,8 @@ Button_2ED4F2E2_0E1A_FC01_41A5_FB6F0FDD6DEE.label = Zaid Mursyid Atsabit— Tumb
 
 ### Multiline Text
 HTMLText_EF821908_F2A7_7D85_41AD_D02CCAEF76C9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.9100000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.91vh;font-family:Inter;"><B>PANORAMA LIST/</B></SPAN></SPAN></DIV></div>
-HTMLText_18E30E82_0E69_8401_41A0_26DE283F42E6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:Inter;"><B>Video Artworks</B></SPAN></SPAN></DIV></div>
-HTMLText_11D7C69F_0EEE_843E_418E_EABE98CDE1DB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:Inter;"><B>Video Artworks</B></SPAN></SPAN></DIV></div>
+HTMLText_18E30E82_0E69_8401_41A0_26DE283F42E6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.199999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:Inter;"><B>Video Artworks</B></SPAN></SPAN></DIV></div>
+HTMLText_11D7C69F_0EEE_843E_418E_EABE98CDE1DB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.199999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:Inter;"><B>Video Artworks</B></SPAN></SPAN></DIV></div>
 
 ## Tour
 
